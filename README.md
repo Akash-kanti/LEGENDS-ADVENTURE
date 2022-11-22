@@ -5,7 +5,8 @@ LEGENDS ADVENTURE is a 2D game with various levels and different character skins
 ## These are some Game Shot. 
 <br/>
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/48176812/189690152-0b42b551-c679-4c34-8b75-698bff35064b.jpeg" width="300" height="200" />
-  <img src="https://user-images.githubusercontent.com/48176812/189690370-3ae3bccd-1075-4cfc-9d13-36df926ec11a.jpeg" width="300" height="200"/> 
-  <img src="https://user-images.githubusercontent.com/48176812/189690409-125d4516-ddf7-4bbc-a937-325ddfbc2ad9.jpeg" width="300" height="200"/>
+  <img src="https://user-images.githubusercontent.com/48176812/203258118-a17e8280-da94-4de3-85fd-404332374a3e.png" width="300" height="200" />
+  <img src="https://user-images.githubusercontent.com/48176812/203258108-f7c5dd80-b3de-47fc-ae26-07bd31396644.png" width="300" height="200"/> 
+  <img src="https://user-images.githubusercontent.com/48176812/203258091-c0abee13-1611-498b-a331-5725ba3768e9.png" width="300" height="200"/>
 </p>
+
